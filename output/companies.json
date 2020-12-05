@@ -1,0 +1,402 @@
+{
+  "AgriOpt AB": {
+    "name": "AgriOpt AB",
+    "website": "http://www.agriopt.com"
+  },
+  "Animals AI": {
+    "name": "Animals AI",
+    "website": "https://animals.ai"
+  },
+  "Arboair": {
+    "name": "Arboair",
+    "website": "https://www.arboair.com"
+  },
+  "Bazaro": {
+    "name": "Bazaro",
+    "website": "https://bazaro.io/"
+  },
+  "BeeScanning": {
+    "name": "BeeScanning",
+    "website": "https://www.beescanning.com"
+  },
+  "Ekobot AB": {
+    "name": "Ekobot AB",
+    "website": "https://www.ekobot.se"
+  },
+  "Glana Sensors AB": {
+    "name": "Glana Sensors AB",
+    "website": "http://glana.se"
+  },
+  "HoofStep AB": {
+    "name": "HoofStep AB",
+    "website": "https://www.hoofstep.com"
+  },
+  "KATAM TECHNOLOGIES AB": {
+    "name": "KATAM TECHNOLOGIES AB",
+    "website": "http://www.katam.se"
+  },
+  "Nutrie AB": {
+    "name": "Nutrie AB",
+    "website": "https://www.nutrie.se"
+  },
+  "Videquus AB": {
+    "name": "Videquus AB",
+    "website": "https://www.videquus.se"
+  },
+  "Algoriffix AB": {
+    "name": "Algoriffix AB",
+    "website": "https://www.algoriffix.com/"
+  },
+  "Bumbee Labs AB": {
+    "name": "Bumbee Labs AB",
+    "website": "http://www.bumbeelabs.com"
+  },
+  "Codemill AB": {
+    "name": "Codemill AB",
+    "website": "https://codemill.se"
+  },
+  "Racefox": {
+    "name": "Racefox",
+    "website": "https://racefox.com"
+  },
+  "Rider\u00b4s Position AB": {
+    "name": "Rider\u00b4s Position AB",
+    "website": "https://ridersposition.com/"
+  },
+  "Flypulse AB": {
+    "name": "Flypulse AB",
+    "website": "http://www.flypulse.se"
+  },
+  "Spacept": {
+    "name": "Spacept",
+    "website": "https://www.spacept.com/"
+  },
+  "Exparang AB": {
+    "name": "Exparang AB",
+    "website": "https://exparang.com"
+  },
+  "Happyr AB": {
+    "name": "Happyr AB",
+    "website": "https://happyr.com"
+  },
+  "Hubert.ai": {
+    "name": "Hubert.ai",
+    "website": "https://hubert.ai/"
+  },
+  "Mavenoid": {
+    "name": "Mavenoid",
+    "website": "http://www.mavenoid.com/"
+  },
+  "Tendium AB": {
+    "name": "Tendium AB",
+    "website": "http://tendium.ai"
+  },
+  "Unbiased": {
+    "name": "Unbiased",
+    "website": "https://unbiased.cc/"
+  },
+  "Zimply Innovation Nordic AB": {
+    "name": "Zimply Innovation Nordic AB",
+    "website": "http://Zimply.ai"
+  },
+  "Annotell": {
+    "name": "Annotell",
+    "website": "http://www.annotell.com"
+  },
+  "Ekkono Solutions AB": {
+    "name": "Ekkono Solutions AB",
+    "website": "http://www.ekkono.ai"
+  },
+  "Embedl": {
+    "name": "Embedl",
+    "website": "https://embedl.com"
+  },
+  "AKOA AB": {
+    "name": "AKOA AB",
+    "website": "https://www.akoa.com"
+  },
+  "Codon": {
+    "name": "Codon",
+    "website": "https://codon.se/"
+  },
+  "DataFusion AB": {
+    "name": "DataFusion AB",
+    "website": "https://www.data-fusion.se/"
+  },
+  "Dcipher Analytics AB": {
+    "name": "Dcipher Analytics AB",
+    "website": "www.dcipheranalytics.com"
+  },
+  "Get AI": {
+    "name": "Get AI",
+    "website": "https://www.getai.se/"
+  },
+  "Kamin AI AB": {
+    "name": "Kamin AI AB",
+    "website": "https://www.kamin.ai/"
+  },
+  "Modulai": {
+    "name": "Modulai",
+    "website": "https://modulai.io/"
+  },
+  "Neodev AB": {
+    "name": "Neodev AB",
+    "website": "http://neodev.se"
+  },
+  "Neurolearn": {
+    "name": "Neurolearn",
+    "website": "https://www.neurolearn.se"
+  },
+  "NordAxon": {
+    "name": "NordAxon",
+    "website": "https://www.nordaxon.com"
+  },
+  "North Link": {
+    "name": "North Link",
+    "website": "https://www.northlink.io/"
+  },
+  "Peltarion": {
+    "name": "Peltarion",
+    "website": "https://peltarion.com/"
+  },
+  "Qinematic AB": {
+    "name": "Qinematic AB",
+    "website": "https://www.qinematic.com"
+  },
+  "Sensative AB": {
+    "name": "Sensative AB",
+    "website": "https://www.sensative.com"
+  },
+  "Smartr": {
+    "name": "Smartr",
+    "website": "https://www.smartr.se"
+  },
+  "Stella Polaris": {
+    "name": "Stella Polaris",
+    "website": "https://stellapolaris.ai"
+  },
+  "Tenfifty AB": {
+    "name": "Tenfifty AB",
+    "website": "https://tenfifty.io"
+  },
+  "Viking Analytics AB": {
+    "name": "Viking Analytics AB",
+    "website": "http://www.vikinganalytics.se"
+  },
+  "Zentosa": {
+    "name": "Zentosa",
+    "website": "https://www.zentosa.se"
+  },
+  "Connectitude AB": {
+    "name": "Connectitude AB",
+    "website": "https://connectitude.com"
+  },
+  "Cyberty": {
+    "name": "Cyberty",
+    "website": "https://www.cyberty.io"
+  },
+  "OCCDEC AB": {
+    "name": "OCCDEC AB",
+    "website": "https://occdec.com/"
+  },
+  "Sentian": {
+    "name": "Sentian",
+    "website": "https://www.sentian.ai/"
+  },
+  "SYNDATA AB": {
+    "name": "SYNDATA AB",
+    "website": "http://syndata.co"
+  },
+  "EdAider": {
+    "name": "EdAider",
+    "website": "http://www.edaider.com"
+  },
+  "Hypocampus AB": {
+    "name": "Hypocampus AB",
+    "website": "https://www.hypocampus.se/"
+  },
+  "Lexplore AB": {
+    "name": "Lexplore AB",
+    "website": "https://www.lexplore.com"
+  },
+  "Sana Labs": {
+    "name": "Sana Labs",
+    "website": "https://www.sanalabs.com"
+  },
+  "Eneryield AB": {
+    "name": "Eneryield AB",
+    "website": "www.eneryield.com"
+  },
+  "ENVISTA AB": {
+    "name": "ENVISTA AB",
+    "website": "https://www.envista.se/"
+  },
+  "Rebase Energy": {
+    "name": "Rebase Energy",
+    "website": "https://www.rebase.energy/"
+  },
+  "Skyqraft": {
+    "name": "Skyqraft",
+    "website": "https://www.skyqraft.com/"
+  },
+  "Stream Analyze AB": {
+    "name": "Stream Analyze AB",
+    "website": "https://streamanalyze.com/"
+  },
+  "Agilon Analytics": {
+    "name": "Agilon Analytics",
+    "website": "https://agilon.io"
+  },
+  "Allting AB": {
+    "name": "Allting AB",
+    "website": "https://www.allting.co"
+  },
+  "CloudBackend AB": {
+    "name": "CloudBackend AB",
+    "website": "https://cloudbackend.com"
+  },
+  "Debricked": {
+    "name": "Debricked",
+    "website": "https://debricked.com/"
+  },
+  "Elastisys": {
+    "name": "Elastisys",
+    "website": "https://elastisys.com/"
+  },
+  "Gemit Solutions": {
+    "name": "Gemit Solutions",
+    "website": "http://gemit.se"
+  },
+  "Gleechi": {
+    "name": "Gleechi",
+    "website": "https://www.gleechi.com/"
+  },
+  "Loggamera AB": {
+    "name": "Loggamera AB",
+    "website": "https://www.loggamera.com"
+  },
+  "Logical Clocks": {
+    "name": "Logical Clocks",
+    "website": "https://www.logicalclocks.com"
+  },
+  "MLOps": {
+    "name": "MLOps",
+    "website": "https://mlops.cloud"
+  },
+  "Narratory": {
+    "name": "Narratory",
+    "website": "https://narratory.io"
+  },
+  "nonoRank": {
+    "name": "nonoRank",
+    "website": "https://www.nonorank.com"
+  },
+  "PerceptiLabs": {
+    "name": "PerceptiLabs",
+    "website": "https://perceptilabs.com/home"
+  },
+  "Prediktera AB": {
+    "name": "Prediktera AB",
+    "website": "http://www.prediktera.com"
+  },
+  "Prometa": {
+    "name": "Prometa",
+    "website": "https://www.prometa.com/"
+  },
+  "Rebl Industries AB": {
+    "name": "Rebl Industries AB",
+    "website": "http://www.rebl.se"
+  },
+  "Sarvai ab": {
+    "name": "Sarvai ab",
+    "website": "https://www.sarvai.com"
+  },
+  "Scaleout Systems AB": {
+    "name": "Scaleout Systems AB",
+    "website": "https://scaleoutsystems.com/"
+  },
+  "ShimmerCat AB": {
+    "name": "ShimmerCat AB",
+    "website": "https://www.shimmercat.com/"
+  },
+  "Turbotic AB": {
+    "name": "Turbotic AB",
+    "website": "http://www.turbotic.com"
+  },
+  "Visage Technologies": {
+    "name": "Visage Technologies",
+    "website": "http://www.visagetechnologies.com"
+  },
+  "Evispot": {
+    "name": "Evispot",
+    "website": "https://www.evispot.ai/sv/"
+  },
+  "Greater Than": {
+    "name": "Greater Than",
+    "website": "https://greaterthan.eu/"
+  },
+  "Noteful Ai": {
+    "name": "Noteful Ai",
+    "website": "https://noteful.ai/"
+  },
+  "AlgoDx": {
+    "name": "AlgoDx",
+    "website": "https://algodx.com"
+  },
+  "Arkus AI": {
+    "name": "Arkus AI",
+    "website": "http://arkus.ai"
+  },
+  "Asymptotic AI": {
+    "name": "Asymptotic AI",
+    "website": "https://www.asymptotic.ai/"
+  },
+  "Boneprox": {
+    "name": "Boneprox",
+    "website": "http://www.boneprox.com"
+  },
+  "CELLINK": {
+    "name": "CELLINK",
+    "website": "http://www.cellink.com"
+  },
+  "DeepMed AB": {
+    "name": "DeepMed AB",
+    "website": "http://deep-med.com"
+  },
+  "HadbiFY AB": {
+    "name": "HadbiFY AB",
+    "website": "http://www.hadbify.com"
+  },
+  "InnoBrain": {
+    "name": "InnoBrain",
+    "website": "https://www.innobrain.se"
+  },
+  "Kontigo Care": {
+    "name": "Kontigo Care",
+    "website": "https://www.kontigocare.com/"
+  },
+  "Linkura": {
+    "name": "Linkura",
+    "website": "http://www.linkura.se"
+  },
+  "Lucero": {
+    "name": "Lucero",
+    "website": "https://lucerobio.com"
+  },
+  "Medotemic AB": {
+    "name": "Medotemic AB",
+    "website": "https://www.medotemic.com"
+  },
+  "Novamia AB": {
+    "name": "Novamia AB",
+    "website": "http://www.novamia.com/index.html"
+  },
+  "ThermaiScan": {
+    "name": "ThermaiScan",
+    "website": "https://www.thermaiscan.com"
+  },
+  "Vironova AB": {
+    "name": "Vironova AB",
+    "website": "https://www.vironova.com"
+  }
+}
