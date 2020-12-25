@@ -1,402 +1,1492 @@
 {
-  "AgriOpt AB": {
-    "name": "AgriOpt AB",
-    "website": "http://www.agriopt.com"
+  "Ekobot AB": {
+    "name": "Ekobot AB",
+    "website": "https://www.ekobot.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.29747440000001,
+      "lng": 17.9812567
+    }
   },
   "Animals AI": {
     "name": "Animals AI",
-    "website": "https://animals.ai"
-  },
-  "Arboair": {
-    "name": "Arboair",
-    "website": "https://www.arboair.com"
-  },
-  "Bazaro": {
-    "name": "Bazaro",
-    "website": "https://bazaro.io/"
-  },
-  "BeeScanning": {
-    "name": "BeeScanning",
-    "website": "https://www.beescanning.com"
-  },
-  "Ekobot AB": {
-    "name": "Ekobot AB",
-    "website": "https://www.ekobot.se"
-  },
-  "Glana Sensors AB": {
-    "name": "Glana Sensors AB",
-    "website": "http://glana.se"
+    "website": "https://animals.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 47.5193464,
+      "lng": -122.652955
+    }
   },
   "HoofStep AB": {
     "name": "HoofStep AB",
-    "website": "https://www.hoofstep.com"
-  },
-  "KATAM TECHNOLOGIES AB": {
-    "name": "KATAM TECHNOLOGIES AB",
-    "website": "http://www.katam.se"
-  },
-  "Nutrie AB": {
-    "name": "Nutrie AB",
-    "website": "https://www.nutrie.se"
+    "website": "https://www.hoofstep.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.1708083,
+      "lng": 12.697891
+    }
   },
   "Videquus AB": {
     "name": "Videquus AB",
-    "website": "https://www.videquus.se"
+    "website": "https://www.videquus.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
   },
-  "Algoriffix AB": {
-    "name": "Algoriffix AB",
-    "website": "https://www.algoriffix.com/"
+  "AgriOpt AB": {
+    "name": "AgriOpt AB",
+    "website": "http://www.agriopt.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.705,
+      "lng": 11.9636111
+    }
   },
-  "Bumbee Labs AB": {
-    "name": "Bumbee Labs AB",
-    "website": "http://www.bumbeelabs.com"
+  "BeeScanning": {
+    "name": "BeeScanning",
+    "website": "https://www.beescanning.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
   },
-  "Codemill AB": {
-    "name": "Codemill AB",
-    "website": "https://codemill.se"
+  "Nutrie AB": {
+    "name": "Nutrie AB",
+    "website": "https://www.nutrie.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70531049999999,
+      "lng": 11.9718885
+    }
+  },
+  "Arboair": {
+    "name": "Arboair",
+    "website": "https://www.arboair.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.3936659,
+      "lng": 15.5621762
+    }
+  },
+  "Bazaro": {
+    "name": "Bazaro",
+    "website": "https://bazaro.io/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70835169999999,
+      "lng": 11.9666649
+    }
+  },
+  "Glana Sensors AB": {
+    "name": "Glana Sensors AB",
+    "website": "http://glana.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.31491339999999,
+      "lng": 14.930272
+    }
+  },
+  "KATAM TECHNOLOGIES AB": {
+    "name": "KATAM TECHNOLOGIES AB",
+    "website": "http://www.katam.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.38710529999999,
+      "lng": 13.9355044
+    }
   },
   "Racefox": {
     "name": "Racefox",
-    "website": "https://racefox.com"
+    "website": "https://racefox.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3362331,
+      "lng": 18.0585975
+    }
   },
   "Rider\u00b4s Position AB": {
     "name": "Rider\u00b4s Position AB",
-    "website": "https://ridersposition.com/"
+    "website": "https://ridersposition.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Algoriffix AB": {
+    "name": "Algoriffix AB",
+    "website": "https://www.algoriffix.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.302545,
+      "lng": 18.0828419
+    }
+  },
+  "Codemill AB": {
+    "name": "Codemill AB",
+    "website": "https://codemill.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 63.8294671,
+      "lng": 20.2724624
+    }
   },
   "Flypulse AB": {
     "name": "Flypulse AB",
-    "website": "http://www.flypulse.se"
+    "website": "http://www.flypulse.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.2706761,
+      "lng": 12.2778041
+    }
   },
   "Spacept": {
     "name": "Spacept",
-    "website": "https://www.spacept.com/"
-  },
-  "Exparang AB": {
-    "name": "Exparang AB",
-    "website": "https://exparang.com"
-  },
-  "Happyr AB": {
-    "name": "Happyr AB",
-    "website": "https://happyr.com"
-  },
-  "Hubert.ai": {
-    "name": "Hubert.ai",
-    "website": "https://hubert.ai/"
-  },
-  "Mavenoid": {
-    "name": "Mavenoid",
-    "website": "http://www.mavenoid.com/"
+    "website": "https://www.spacept.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3429409,
+      "lng": 18.0889781
+    }
   },
   "Tendium AB": {
     "name": "Tendium AB",
-    "website": "http://tendium.ai"
+    "website": "http://tendium.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3334494,
+      "lng": 18.0642427
+    }
   },
   "Unbiased": {
     "name": "Unbiased",
-    "website": "https://unbiased.cc/"
+    "website": "https://unbiased.cc/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 51.5203382,
+      "lng": -0.1065737
+    }
+  },
+  "Mavenoid": {
+    "name": "Mavenoid",
+    "website": "http://www.mavenoid.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3357419,
+      "lng": 18.074958
+    }
+  },
+  "Hubert.ai": {
+    "name": "Hubert.ai",
+    "website": "https://hubert.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.85620999999999,
+      "lng": 17.6523871
+    }
+  },
+  "Happyr AB": {
+    "name": "Happyr AB",
+    "website": "https://happyr.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.34066139999999,
+      "lng": 18.0652779
+    }
+  },
+  "Exparang AB": {
+    "name": "Exparang AB",
+    "website": "https://exparang.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.34283540000001,
+      "lng": 18.1801963
+    }
   },
   "Zimply Innovation Nordic AB": {
     "name": "Zimply Innovation Nordic AB",
-    "website": "http://Zimply.ai"
-  },
-  "Annotell": {
-    "name": "Annotell",
-    "website": "http://www.annotell.com"
+    "website": "http://Zimply.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7026863,
+      "lng": 11.9217744
+    }
   },
   "Ekkono Solutions AB": {
     "name": "Ekkono Solutions AB",
-    "website": "http://www.ekkono.ai"
+    "website": "http://www.ekkono.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.72490380000001,
+      "lng": 12.9374572
+    }
   },
   "Embedl": {
     "name": "Embedl",
-    "website": "https://embedl.com"
+    "website": "https://embedl.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.698018,
+      "lng": 11.9871618
+    }
+  },
+  "Annotell": {
+    "name": "Annotell",
+    "website": "http://www.annotell.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7076867,
+      "lng": 11.9433714
+    }
   },
   "AKOA AB": {
     "name": "AKOA AB",
-    "website": "https://www.akoa.com"
-  },
-  "Codon": {
-    "name": "Codon",
-    "website": "https://codon.se/"
-  },
-  "DataFusion AB": {
-    "name": "DataFusion AB",
-    "website": "https://www.data-fusion.se/"
-  },
-  "Dcipher Analytics AB": {
-    "name": "Dcipher Analytics AB",
-    "website": "www.dcipheranalytics.com"
-  },
-  "Get AI": {
-    "name": "Get AI",
-    "website": "https://www.getai.se/"
-  },
-  "Kamin AI AB": {
-    "name": "Kamin AI AB",
-    "website": "https://www.kamin.ai/"
-  },
-  "Modulai": {
-    "name": "Modulai",
-    "website": "https://modulai.io/"
-  },
-  "Neodev AB": {
-    "name": "Neodev AB",
-    "website": "http://neodev.se"
-  },
-  "Neurolearn": {
-    "name": "Neurolearn",
-    "website": "https://www.neurolearn.se"
-  },
-  "NordAxon": {
-    "name": "NordAxon",
-    "website": "https://www.nordaxon.com"
-  },
-  "North Link": {
-    "name": "North Link",
-    "website": "https://www.northlink.io/"
-  },
-  "Peltarion": {
-    "name": "Peltarion",
-    "website": "https://peltarion.com/"
-  },
-  "Qinematic AB": {
-    "name": "Qinematic AB",
-    "website": "https://www.qinematic.com"
+    "website": "https://www.akoa.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3322619,
+      "lng": 18.0666805
+    }
   },
   "Sensative AB": {
     "name": "Sensative AB",
-    "website": "https://www.sensative.com"
+    "website": "https://www.sensative.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.716674,
+      "lng": 13.225259
+    }
   },
   "Smartr": {
     "name": "Smartr",
-    "website": "https://www.smartr.se"
+    "website": "https://www.smartr.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 52.2466945,
+      "lng": 6.149392199999999
+    }
   },
-  "Stella Polaris": {
-    "name": "Stella Polaris",
-    "website": "https://stellapolaris.ai"
+  "Get AI": {
+    "name": "Get AI",
+    "website": "https://www.getai.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.0452551,
+      "lng": 12.6942686
+    }
   },
-  "Tenfifty AB": {
-    "name": "Tenfifty AB",
-    "website": "https://tenfifty.io"
-  },
-  "Viking Analytics AB": {
-    "name": "Viking Analytics AB",
-    "website": "http://www.vikinganalytics.se"
+  "Codon": {
+    "name": "Codon",
+    "website": "https://codon.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 51.9855304,
+      "lng": 5.6640161
+    }
   },
   "Zentosa": {
     "name": "Zentosa",
-    "website": "https://www.zentosa.se"
+    "website": "https://www.zentosa.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 52.5485734,
+      "lng": -1.8417098
+    }
+  },
+  "Peltarion": {
+    "name": "Peltarion",
+    "website": "https://peltarion.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3378232,
+      "lng": 18.0583869
+    }
+  },
+  "Modulai": {
+    "name": "Modulai",
+    "website": "https://modulai.io/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3392341,
+      "lng": 18.0333444
+    }
+  },
+  "NordAxon": {
+    "name": "NordAxon",
+    "website": "https://www.nordaxon.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.561919,
+      "lng": 12.9763409
+    }
+  },
+  "Kamin AI AB": {
+    "name": "Kamin AI AB",
+    "website": "https://www.kamin.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.74781909999999,
+      "lng": 12.0003517
+    }
+  },
+  "DataFusion AB": {
+    "name": "DataFusion AB",
+    "website": "https://www.data-fusion.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.67574379999999,
+      "lng": 11.9142487
+    }
+  },
+  "Tenfifty AB": {
+    "name": "Tenfifty AB",
+    "website": "https://tenfifty.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70806690000001,
+      "lng": 11.9652201
+    }
+  },
+  "Neurolearn": {
+    "name": "Neurolearn",
+    "website": "https://www.neurolearn.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.2547883,
+      "lng": 15.2492854
+    }
+  },
+  "Neodev AB": {
+    "name": "Neodev AB",
+    "website": "http://neodev.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.6052972,
+      "lng": 13.0009666
+    }
+  },
+  "North Link": {
+    "name": "North Link",
+    "website": "https://www.northlink.io/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.04852769999999,
+      "lng": 12.6922789
+    }
+  },
+  "Stella Polaris": {
+    "name": "Stella Polaris",
+    "website": "https://stellapolaris.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.690067,
+      "lng": 12.527356
+    }
   },
   "Connectitude AB": {
     "name": "Connectitude AB",
-    "website": "https://connectitude.com"
-  },
-  "Cyberty": {
-    "name": "Cyberty",
-    "website": "https://www.cyberty.io"
-  },
-  "OCCDEC AB": {
-    "name": "OCCDEC AB",
-    "website": "https://occdec.com/"
-  },
-  "Sentian": {
-    "name": "Sentian",
-    "website": "https://www.sentian.ai/"
+    "website": "https://connectitude.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.6014427,
+      "lng": 12.9996275
+    }
   },
   "SYNDATA AB": {
     "name": "SYNDATA AB",
-    "website": "http://syndata.co"
+    "website": "http://syndata.co",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.611389,
+      "lng": 11.939167
+    }
   },
-  "EdAider": {
-    "name": "EdAider",
-    "website": "http://www.edaider.com"
+  "OCCDEC AB": {
+    "name": "OCCDEC AB",
+    "website": "https://occdec.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.66323689999999,
+      "lng": 16.3631923
+    }
   },
-  "Hypocampus AB": {
-    "name": "Hypocampus AB",
-    "website": "https://www.hypocampus.se/"
+  "Cyberty": {
+    "name": "Cyberty",
+    "website": "https://www.cyberty.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 65.6179101,
+      "lng": 22.1290525
+    }
   },
   "Lexplore AB": {
     "name": "Lexplore AB",
-    "website": "https://www.lexplore.com"
+    "website": "https://www.lexplore.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.329048,
+      "lng": 18.0627076
+    }
   },
   "Sana Labs": {
     "name": "Sana Labs",
-    "website": "https://www.sanalabs.com"
+    "website": "https://www.sanalabs.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.33409220000001,
+      "lng": 18.0771304
+    }
   },
-  "Eneryield AB": {
-    "name": "Eneryield AB",
-    "website": "www.eneryield.com"
+  "Hypocampus AB": {
+    "name": "Hypocampus AB",
+    "website": "https://www.hypocampus.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.69892890000001,
+      "lng": 11.967997
+    }
   },
-  "ENVISTA AB": {
-    "name": "ENVISTA AB",
-    "website": "https://www.envista.se/"
+  "EdAider": {
+    "name": "EdAider",
+    "website": "http://www.edaider.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6981719,
+      "lng": 11.971878
+    }
   },
   "Rebase Energy": {
     "name": "Rebase Energy",
-    "website": "https://www.rebase.energy/"
+    "website": "https://www.rebase.energy/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Eneryield AB": {
+    "name": "Eneryield AB",
+    "website": "www.eneryield.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6936726,
+      "lng": 11.9747302
+    }
   },
   "Skyqraft": {
     "name": "Skyqraft",
-    "website": "https://www.skyqraft.com/"
+    "website": "https://www.skyqraft.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.33616660000001,
+      "lng": 18.0696947
+    }
   },
-  "Stream Analyze AB": {
-    "name": "Stream Analyze AB",
-    "website": "https://streamanalyze.com/"
-  },
-  "Agilon Analytics": {
-    "name": "Agilon Analytics",
-    "website": "https://agilon.io"
+  "ENVISTA AB": {
+    "name": "ENVISTA AB",
+    "website": "https://www.envista.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.4174956,
+      "lng": 15.6260621
+    }
   },
   "Allting AB": {
     "name": "Allting AB",
-    "website": "https://www.allting.co"
+    "website": "https://www.allting.co",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.69832899999999,
+      "lng": 11.9860685
+    }
   },
-  "CloudBackend AB": {
-    "name": "CloudBackend AB",
-    "website": "https://cloudbackend.com"
-  },
-  "Debricked": {
-    "name": "Debricked",
-    "website": "https://debricked.com/"
-  },
-  "Elastisys": {
-    "name": "Elastisys",
-    "website": "https://elastisys.com/"
-  },
-  "Gemit Solutions": {
-    "name": "Gemit Solutions",
-    "website": "http://gemit.se"
-  },
-  "Gleechi": {
-    "name": "Gleechi",
-    "website": "https://www.gleechi.com/"
-  },
-  "Loggamera AB": {
-    "name": "Loggamera AB",
-    "website": "https://www.loggamera.com"
-  },
-  "Logical Clocks": {
-    "name": "Logical Clocks",
-    "website": "https://www.logicalclocks.com"
-  },
-  "MLOps": {
-    "name": "MLOps",
-    "website": "https://mlops.cloud"
-  },
-  "Narratory": {
-    "name": "Narratory",
-    "website": "https://narratory.io"
-  },
-  "nonoRank": {
-    "name": "nonoRank",
-    "website": "https://www.nonorank.com"
-  },
-  "PerceptiLabs": {
-    "name": "PerceptiLabs",
-    "website": "https://perceptilabs.com/home"
+  "Dcipher Analytics AB": {
+    "name": "Dcipher Analytics AB",
+    "website": "www.dcipheranalytics.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 41.1121849,
+      "lng": 29.019965
+    }
   },
   "Prediktera AB": {
     "name": "Prediktera AB",
-    "website": "http://www.prediktera.com"
-  },
-  "Prometa": {
-    "name": "Prometa",
-    "website": "https://www.prometa.com/"
-  },
-  "Rebl Industries AB": {
-    "name": "Rebl Industries AB",
-    "website": "http://www.rebl.se"
-  },
-  "Sarvai ab": {
-    "name": "Sarvai ab",
-    "website": "https://www.sarvai.com"
+    "website": "http://www.prediktera.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 63.8174441,
+      "lng": 20.3162547
+    }
   },
   "Scaleout Systems AB": {
     "name": "Scaleout Systems AB",
-    "website": "https://scaleoutsystems.com/"
+    "website": "https://scaleoutsystems.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7054676,
+      "lng": 11.9655111
+    }
+  },
+  "Logical Clocks": {
+    "name": "Logical Clocks",
+    "website": "https://www.logicalclocks.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.4047721,
+      "lng": 17.9495247
+    }
+  },
+  "PerceptiLabs": {
+    "name": "PerceptiLabs",
+    "website": "https://perceptilabs.com/home",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3504715,
+      "lng": 18.0676546
+    }
   },
   "ShimmerCat AB": {
     "name": "ShimmerCat AB",
-    "website": "https://www.shimmercat.com/"
+    "website": "https://www.shimmercat.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.611389,
+      "lng": 11.939167
+    }
   },
-  "Turbotic AB": {
-    "name": "Turbotic AB",
-    "website": "http://www.turbotic.com"
+  "Narratory": {
+    "name": "Narratory",
+    "website": "https://narratory.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Sarvai ab": {
+    "name": "Sarvai ab",
+    "website": "https://www.sarvai.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3569871,
+      "lng": 18.0153099
+    }
+  },
+  "Agilon Analytics": {
+    "name": "Agilon Analytics",
+    "website": "https://agilon.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Gleechi": {
+    "name": "Gleechi",
+    "website": "https://www.gleechi.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
   },
   "Visage Technologies": {
     "name": "Visage Technologies",
-    "website": "http://www.visagetechnologies.com"
+    "website": "http://www.visagetechnologies.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.3927579,
+      "lng": 15.5580782
+    }
+  },
+  "Gemit Solutions": {
+    "name": "Gemit Solutions",
+    "website": "http://gemit.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3504715,
+      "lng": 18.0676546
+    }
+  },
+  "Debricked": {
+    "name": "Debricked",
+    "website": "https://debricked.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.61125999999999,
+      "lng": 12.9936297
+    }
+  },
+  "CloudBackend AB": {
+    "name": "CloudBackend AB",
+    "website": "https://cloudbackend.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7085103,
+      "lng": 11.9401904
+    }
+  },
+  "Prometa": {
+    "name": "Prometa",
+    "website": "https://www.prometa.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 51.0034354,
+      "lng": 2.3447328
+    }
+  },
+  "nonoRank": {
+    "name": "nonoRank",
+    "website": "https://www.nonorank.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.85090049999999,
+      "lng": 17.6300093
+    }
+  },
+  "Elastisys": {
+    "name": "Elastisys",
+    "website": "https://elastisys.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 63.81747539999999,
+      "lng": 20.319272
+    }
+  },
+  "Loggamera AB": {
+    "name": "Loggamera AB",
+    "website": "https://www.loggamera.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.44034689999999,
+      "lng": 18.0418562
+    }
+  },
+  "MLOps": {
+    "name": "MLOps",
+    "website": "https://mlops.cloud",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Turbotic AB": {
+    "name": "Turbotic AB",
+    "website": "http://www.turbotic.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3334494,
+      "lng": 18.0642427
+    }
   },
   "Evispot": {
     "name": "Evispot",
-    "website": "https://www.evispot.ai/sv/"
-  },
-  "Greater Than": {
-    "name": "Greater Than",
-    "website": "https://greaterthan.eu/"
+    "website": "https://www.evispot.ai/sv/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7040801,
+      "lng": 11.9571341
+    }
   },
   "Noteful Ai": {
     "name": "Noteful Ai",
-    "website": "https://noteful.ai/"
+    "website": "https://noteful.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 40.7559712,
+      "lng": -73.99204519999999
+    }
   },
-  "AlgoDx": {
-    "name": "AlgoDx",
-    "website": "https://algodx.com"
+  "Greater Than": {
+    "name": "Greater Than",
+    "website": "https://greaterthan.eu/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.33879839999999,
+      "lng": 18.0831912
+    }
   },
-  "Arkus AI": {
-    "name": "Arkus AI",
-    "website": "http://arkus.ai"
-  },
-  "Asymptotic AI": {
-    "name": "Asymptotic AI",
-    "website": "https://www.asymptotic.ai/"
-  },
-  "Boneprox": {
-    "name": "Boneprox",
-    "website": "http://www.boneprox.com"
-  },
-  "CELLINK": {
-    "name": "CELLINK",
-    "website": "http://www.cellink.com"
-  },
-  "DeepMed AB": {
-    "name": "DeepMed AB",
-    "website": "http://deep-med.com"
-  },
-  "HadbiFY AB": {
-    "name": "HadbiFY AB",
-    "website": "http://www.hadbify.com"
-  },
-  "InnoBrain": {
-    "name": "InnoBrain",
-    "website": "https://www.innobrain.se"
-  },
-  "Kontigo Care": {
-    "name": "Kontigo Care",
-    "website": "https://www.kontigocare.com/"
-  },
-  "Linkura": {
-    "name": "Linkura",
-    "website": "http://www.linkura.se"
-  },
-  "Lucero": {
-    "name": "Lucero",
-    "website": "https://lucerobio.com"
-  },
-  "Medotemic AB": {
-    "name": "Medotemic AB",
-    "website": "https://www.medotemic.com"
-  },
-  "Novamia AB": {
-    "name": "Novamia AB",
-    "website": "http://www.novamia.com/index.html"
+  "Qinematic AB": {
+    "name": "Qinematic AB",
+    "website": "https://www.qinematic.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3489278,
+      "lng": 18.0463952
+    }
   },
   "ThermaiScan": {
     "name": "ThermaiScan",
-    "website": "https://www.thermaiscan.com"
+    "website": "https://www.thermaiscan.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "AlgoDx": {
+    "name": "AlgoDx",
+    "website": "https://algodx.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6981719,
+      "lng": 11.971878
+    }
+  },
+  "Asymptotic AI": {
+    "name": "Asymptotic AI",
+    "website": "https://www.asymptotic.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "HadbiFY AB": {
+    "name": "HadbiFY AB",
+    "website": "http://www.hadbify.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "CELLINK": {
+    "name": "CELLINK",
+    "website": "http://www.cellink.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.68586510000001,
+      "lng": 11.9553539
+    }
+  },
+  "Lucero": {
+    "name": "Lucero",
+    "website": "https://lucerobio.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 40.4041236,
+      "lng": -3.7476631
+    }
+  },
+  "Linkura": {
+    "name": "Linkura",
+    "website": "http://www.linkura.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.4223189,
+      "lng": 15.6154007
+    }
+  },
+  "Boneprox": {
+    "name": "Boneprox",
+    "website": "http://www.boneprox.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7001628,
+      "lng": 11.9747571
+    }
+  },
+  "InnoBrain": {
+    "name": "InnoBrain",
+    "website": "https://www.innobrain.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3504715,
+      "lng": 18.0676546
+    }
+  },
+  "DeepMed AB": {
+    "name": "DeepMed AB",
+    "website": "http://deep-med.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.40089,
+      "lng": 18.0298185
+    }
+  },
+  "Medotemic AB": {
+    "name": "Medotemic AB",
+    "website": "https://www.medotemic.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
   },
   "Vironova AB": {
     "name": "Vironova AB",
-    "website": "https://www.vironova.com"
+    "website": "https://www.vironova.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3462083,
+      "lng": 18.0351917
+    }
+  },
+  "Arkus AI": {
+    "name": "Arkus AI",
+    "website": "http://arkus.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.19191279999999,
+      "lng": 12.7270934
+    }
+  },
+  "Kontigo Care": {
+    "name": "Kontigo Care",
+    "website": "https://www.kontigocare.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.8590058,
+      "lng": 17.6386036
+    }
+  },
+  "Novamia AB": {
+    "name": "Novamia AB",
+    "website": "http://www.novamia.com/index.html",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6981719,
+      "lng": 11.971878
+    }
+  },
+  "ON-IQ Solution AB": {
+    "name": "ON-IQ Solution AB",
+    "website": "https://oniqvision.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.7063102,
+      "lng": 13.1932766
+    }
+  },
+  "Echo State AB": {
+    "name": "Echo State AB",
+    "website": "https://echostate.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.33624099999999,
+      "lng": 18.0692618
+    }
+  },
+  "WeatherLabs": {
+    "name": "WeatherLabs",
+    "website": "https://www.weatherlabs.io/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Omen Technologies AB": {
+    "name": "Omen Technologies AB",
+    "website": "https://omen-technologies.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Goava Sales Intelligence AB": {
+    "name": "Goava Sales Intelligence AB",
+    "website": "https://www.goava.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.32321839999999,
+      "lng": 18.0728756
+    }
+  },
+  "Oterlu AI": {
+    "name": "Oterlu AI",
+    "website": "https://www.oterlu.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70559,
+      "lng": 11.9683472
+    }
+  },
+  "Substorm AB": {
+    "name": "Substorm AB",
+    "website": "https://www.substorm.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.72658009999999,
+      "lng": 12.004931
+    }
+  },
+  "ALGORYX SIMULATIONS": {
+    "name": "ALGORYX SIMULATIONS",
+    "website": "https://www.algoryx.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 63.81756240000001,
+      "lng": 20.3193641
+    }
+  },
+  "WAVR": {
+    "name": "WAVR",
+    "website": "https://wavr.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6955258,
+      "lng": 11.9959568
+    }
+  },
+  "Validio": {
+    "name": "Validio",
+    "website": "https://www.validio.io/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 49.47205169999999,
+      "lng": 11.063886
+    }
+  },
+  "Parlametric AB": {
+    "name": "Parlametric AB",
+    "website": "http://parlametric.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.7032653,
+      "lng": 13.1913783
+    }
+  },
+  "Gavagai": {
+    "name": "Gavagai",
+    "website": "https://www.gavagai.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3344251,
+      "lng": 18.0586904
+    }
+  },
+  "Combain Mobile AB": {
+    "name": "Combain Mobile AB",
+    "website": "https://combain.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.7176662,
+      "lng": 13.2136161
+    }
+  },
+  "Talkamatic": {
+    "name": "Talkamatic",
+    "website": "http://www.talkamatic.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6992494,
+      "lng": 11.9483537
+    }
+  },
+  "Donna Technologies": {
+    "name": "Donna Technologies",
+    "website": "https://donna.legal",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.6069179,
+      "lng": 13.0022977
+    }
+  },
+  "IAMIP": {
+    "name": "IAMIP",
+    "website": "https://www.iamip.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 53.4503739,
+      "lng": 14.5362309
+    }
+  },
+  "CyStellar": {
+    "name": "CyStellar",
+    "website": "http://www.cystellar.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Univrses AB": {
+    "name": "Univrses AB",
+    "website": "https://univrses.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.31399810000001,
+      "lng": 18.0708056
+    }
+  },
+  "SiB Solutions AB": {
+    "name": "SiB Solutions AB",
+    "website": "https://www.sibsolutions.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.7121816,
+      "lng": 13.2155033
+    }
+  },
+  "H&D Wireless AB": {
+    "name": "H&D Wireless AB",
+    "website": "http://www.hd-wireless.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7084761,
+      "lng": 11.9687909
+    }
+  },
+  "Q-TAGG R&D AB": {
+    "name": "Q-TAGG R&D AB",
+    "website": "https://www.qtagg.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.6030108,
+      "lng": 16.5239401
+    }
+  },
+  "Stream Analyze AB": {
+    "name": "Stream Analyze AB",
+    "website": "https://streamanalyze.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.8597937,
+      "lng": 17.630509
+    }
+  },
+  "Sentian": {
+    "name": "Sentian",
+    "website": "https://www.sentian.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.6074753,
+      "lng": 13.018013
+    }
+  },
+  "Viking Analytics AB": {
+    "name": "Viking Analytics AB",
+    "website": "http://www.vikinganalytics.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70731019999999,
+      "lng": 11.9392911
+    }
+  },
+  "Rebl Industries AB": {
+    "name": "Rebl Industries AB",
+    "website": "http://www.rebl.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7049512,
+      "lng": 11.9663223
+    }
+  },
+  "IPercept Technology": {
+    "name": "IPercept Technology",
+    "website": "http://www.ipercept.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.4169055,
+      "lng": 10.6775718
+    }
+  },
+  "Unibap AB": {
+    "name": "Unibap AB",
+    "website": "http://www.unibap.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.85745129999999,
+      "lng": 17.6419958
+    }
+  },
+  "Ferritico AB": {
+    "name": "Ferritico AB",
+    "website": "https://www.ferritico.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.66145150000001,
+      "lng": 12.030997
+    }
+  },
+  "Calejo Industrial Intelligence AB": {
+    "name": "Calejo Industrial Intelligence AB",
+    "website": "https://www.calejo.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 62.3927663,
+      "lng": 17.2836069
+    }
+  },
+  "Gimic AB": {
+    "name": "Gimic AB",
+    "website": "http://www.gimic.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.9163709,
+      "lng": 14.8078262
+    }
+  },
+  "RoPhi AB": {
+    "name": "RoPhi AB",
+    "website": "https://rophi.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.6613503,
+      "lng": 11.9275776
+    }
+  },
+  "Imagimob AB": {
+    "name": "Imagimob AB",
+    "website": "https://www.imagimob.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.33423239999999,
+      "lng": 18.0988285
+    }
+  },
+  "Semsomi AB": {
+    "name": "Semsomi AB",
+    "website": "https://www.monok.com/en",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.336119,
+      "lng": 18.0823019
+    }
+  },
+  "iMatrics AB": {
+    "name": "iMatrics AB",
+    "website": "http://www.imatrics.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.3936659,
+      "lng": 15.5621762
+    }
+  },
+  "United Robots AB": {
+    "name": "United Robots AB",
+    "website": "https://www.unitedrobots.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70434900000001,
+      "lng": 11.9578414
+    }
+  },
+  "Minalyze AB": {
+    "name": "Minalyze AB",
+    "website": "https://minalyze.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.7321867,
+      "lng": 12.0559311
+    }
+  },
+  "Bumbee Labs AB": {
+    "name": "Bumbee Labs AB",
+    "website": "http://www.bumbeelabs.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3341113,
+      "lng": 18.0744216
+    }
+  },
+  "Bokio AB": {
+    "name": "Bokio AB",
+    "website": "https://www.bokio.se/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.69909199999999,
+      "lng": 11.9774657
+    }
+  },
+  "Textual": {
+    "name": "Textual",
+    "website": "https://textual.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.69081610000001,
+      "lng": 11.9719257
+    }
+  },
+  "Depict. ai": {
+    "name": "Depict. ai",
+    "website": "https://depict.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.32905899999999,
+      "lng": 18.0623959
+    }
+  },
+  "rek. ai": {
+    "name": "rek. ai",
+    "website": "https://rek.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 52.48855,
+      "lng": 13.33398
+    }
+  },
+  "Voxo AB": {
+    "name": "Voxo AB",
+    "website": "https://www.voxo.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "GetAccept": {
+    "name": "GetAccept",
+    "website": "https://www.getaccept.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.1486469,
+      "lng": 10.2056338
+    }
+  },
+  "Graviz Pirenne Labs AB": {
+    "name": "Graviz Pirenne Labs AB",
+    "website": "https://www.mytelescope.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3412284,
+      "lng": 18.0363239
+    }
+  },
+  "Binary Brains AB": {
+    "name": "Binary Brains AB",
+    "website": "https://binarybrains.ai/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.27230040000001,
+      "lng": 15.2157806
+    }
+  },
+  "Comordo Technologies AB": {
+    "name": "Comordo Technologies AB",
+    "website": "http://comordo.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 58.3949778,
+      "lng": 15.5607778
+    }
+  },
+  "Infobaleen Data Intelligence": {
+    "name": "Infobaleen Data Intelligence",
+    "website": "http://infobaleen.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.27230040000001,
+      "lng": 15.2157806
+    }
+  },
+  "Norna": {
+    "name": "Norna",
+    "website": "https://norna.ai",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 55.9825744,
+      "lng": 9.6189491
+    }
+  },
+  "Adlede AB": {
+    "name": "Adlede AB",
+    "website": "https://adlede.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 63.829475,
+      "lng": 20.2730155
+    }
+  },
+  "Formulate": {
+    "name": "Formulate",
+    "website": "https://formulate.app/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.33575019999999,
+      "lng": 18.0671735
+    }
+  },
+  "Stravito": {
+    "name": "Stravito",
+    "website": "http://www.stravito.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3353552,
+      "lng": 18.0900675
+    }
+  },
+  "Indivd": {
+    "name": "Indivd",
+    "website": "http://www.indivd.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 56.6720279,
+      "lng": 12.8413119
+    }
+  },
+  "The Fit": {
+    "name": "The Fit",
+    "website": "https://thefit.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Excellerise Solutions AB": {
+    "name": "Excellerise Solutions AB",
+    "website": "https://excellerise.se",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.69383569999999,
+      "lng": 11.9555675
+    }
+  },
+  "Akuret Solutions": {
+    "name": "Akuret Solutions",
+    "website": "https://www.akuretsolutions.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Geztio AB": {
+    "name": "Geztio AB",
+    "website": "https://www.gezt.io",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Uniquesec AB": {
+    "name": "Uniquesec AB",
+    "website": "https://www.uniquesec.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.611389,
+      "lng": 11.939167
+    }
+  },
+  "Einride": {
+    "name": "Einride",
+    "website": "https://www.einride.tech/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 57.70774600000001,
+      "lng": 11.9497721
+    }
+  },
+  "Commuter Computing (The Train Brain)": {
+    "name": "Commuter Computing (The Train Brain)",
+    "website": "https://www.thetrainbrain.com/",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": null
+  },
+  "Neonode": {
+    "name": "Neonode",
+    "website": "http://www.neonode.com",
+    "first_seen": "2020-12-25",
+    "last_seen": "2020-12-25",
+    "location": {
+      "lat": 59.3361619,
+      "lng": 18.0963685
+    }
   }
 }
